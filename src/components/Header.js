@@ -66,7 +66,7 @@ function Header() {
               variant="h6"
               className={classes.title}
             >
-              Crypto Hunter
+              DIG WITH CRYPTO
             </Typography>
             {isAuthenticated && (
           <IconButton color="inherit" onClick={() => history.push('/favorites')}>

@@ -41,7 +41,7 @@ function Banner() {
               fontFamily: "Montserrat",
             }}
           >
-            Crypto Hunter
+            DIG WITH CRYPTO
           </Typography>
           <Typography
             variant="subtitle2"
